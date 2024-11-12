@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" class="">
+  <head>    
+    <script type="module"></script>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/pic1.jpg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Solidarity Initiative for Children and People</title>
+    <script type="module" crossorigin src="/assets/index--rK4nW58.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-1z2RGe8u.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>     
+  </body>
+</html>
+
